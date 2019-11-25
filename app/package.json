@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "a server to app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/enxibaba/30Days_Server.git"
+  },
+  "author": "zhoujia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enxibaba/30Days_Server/issues"
+  },
+  "homepage": "https://github.com/enxibaba/30Days_Server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "morgan": "^1.9.1"
+  }
+}
