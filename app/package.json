@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/enxibaba/30Days_Server#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "^0.0.0",
     "morgan": "^1.9.1",
     "net": "^1.0.2"
